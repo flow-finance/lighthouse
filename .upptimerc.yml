@@ -23,9 +23,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/flow-finance/lighthouse/master/assets/styles.css
+  css: "body { background-color: #ffffff; } nav img { width: 66px; }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
