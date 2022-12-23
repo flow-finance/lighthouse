@@ -4,7 +4,7 @@
     "url": "https://www.flowfi.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.flowfi.com.ico",
     "slug": "flow-fi-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 208,
     "timeMonth": 264,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-23": 0
+    }
   },
   {
     "name": "FlowFi App",
