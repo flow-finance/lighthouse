@@ -4,19 +4,19 @@
     "url": "https://www.flowfi.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.flowfi.com.ico",
     "slug": "flow-fi-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 299,
-    "timeWeek": 258,
-    "timeMonth": 239,
-    "timeYear": 270,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 274,
+    "timeDay": 512,
+    "timeWeek": 309,
+    "timeMonth": 254,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-12-28": 0
+      "2022-12-28": 10
     }
   },
   {
