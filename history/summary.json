@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.flowfi.com.ico",
     "slug": "flow-fi-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 274,
-    "timeDay": 512,
-    "timeWeek": 309,
-    "timeMonth": 254,
-    "timeYear": 274,
-    "dailyMinutesDown": {
-      "2022-12-28": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 275,
+    "timeDay": 528,
+    "timeWeek": 329,
+    "timeMonth": 262,
+    "timeYear": 275,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FlowFi App",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 229,
-    "timeWeek": 277,
-    "timeMonth": 279,
-    "timeYear": 292,
+    "time": 294,
+    "timeDay": 435,
+    "timeWeek": 298,
+    "timeMonth": 285,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 283,
-    "timeWeek": 279,
-    "timeMonth": 278,
-    "timeYear": 343,
+    "time": 342,
+    "timeDay": 298,
+    "timeWeek": 278,
+    "timeMonth": 279,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   }
 ]
